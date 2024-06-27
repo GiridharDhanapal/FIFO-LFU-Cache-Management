@@ -18,7 +18,7 @@ Choose the cache management algorithm (FIFO or LFU).
 
 Observe cache hits and misses as the algorithm processes the requests.
 
-![Screenshot of the FIFO Algorithm](<FIFO Screenshot-1.png>)
+![Screenshot of the FIFO Algorithm](<FIFO Screenshot.png>)
 
 ## Learning Outcomes
 
