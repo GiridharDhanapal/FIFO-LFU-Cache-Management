@@ -18,8 +18,7 @@ Choose the cache management algorithm (FIFO or LFU).
 
 Observe cache hits and misses as the algorithm processes the requests.
 
-![Screenshot of the FIFO Algorithm](C:/Users/girid/OneDrive/Desktop/Projects Done/Python Cache Management/FIFO Screenshot.png)
-
+![Screenshot of the FIFO Algorithm](<FIFO Screenshot-1.png>)
 
 ## Learning Outcomes
 
